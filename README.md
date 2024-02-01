@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sammyk69&style=for-the-badge&color=blue" />
   <a href="https://github.com/vinij-03?tab=followers">
-    <img src="https://img.shields.io/github/followers/arij33tt?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Sammyk69?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
   </a>
 </p>
 
